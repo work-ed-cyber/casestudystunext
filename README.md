@@ -88,28 +88,28 @@ Imagine a unique key designed to fit only one specific lock – that's how Stuxn
 
 <ul>
   <li><ins>Infiltration</ins></li>
-  <ul>
+  <ul><br>
     <li>Stuxnet first needed to get inside the target systems. It did this in a way similar to a person sneaking into a building by hiding in a delivery truck. The "delivery truck" in Stuxnet's case was a USB flash drive. When an infected USB was plugged into a computer, Stuxnet would install itself onto that computer.</li>
-  </ul>
+  </ul><br>
     <li><ins>Propagation</ins></li>
-   <ul>
+   <ul><br>
     <li>Stuxnet acted like a spy once inside, moving stealthily. It could jump from one computer to another, searching for its target. Think of it as a secret agent moving through a crowd, looking for one particular person.</li>
-  </ul>
+  </ul><br>
     <li><ins>Zero-Day Exploits</ins></li>
-   <ul>
+   <ul><br>
     <li>To move undetected and gain necessary privileges, Stuxnet used what are known as zero-day exploits. These are vulnerabilities in software that even the software's creators aren't aware of. It's like finding a secret door in a building that even the architects didn't know existed.</li>
-  </ul>
+  </ul><br>
     <li><ins> Finding the Target</ins></li>
-   <ul>
+   <ul><br>
     <li>Stuxnet was looking for specific industrial control systems, namely SCADA systems used to control centrifuges in a nuclear facility. You can think of SCADA systems as the control panels that run large industrial operations.</li>
-  </ul>
+  </ul><br>
     <li><ins>Executing the Payload</ins></li>
-   <ul>
+   <ul><br>
     <li>Once Stuxnet found its target, it executed its malicious payload. This part of Stuxnet was like a specialized tool designed to sabotage the centrifuges by changing their speeds erratically. Imagine someone secretly changing the settings on a factory machine, causing it to malfunction.
 </li>
-  </ul>
+  </ul><br>
     <li><ins>Concealment</ins></li>
-     <ul>
+     <ul><br>
     <li>All this time, Stuxnet had to remain undetected. It used several techniques to hide its presence, like a spy using disguises to avoid being caught.</li>
   </ul>
      </ul>
