@@ -51,19 +51,19 @@
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>K0162	- Knowledge of cyber attackers (e.g., script kiddies, insider threats, non-nation states, and nation-sponsored).</li>
+<li>K0162: Knowledge of cyber attackers (e.g., script kiddies, insider threats, non-nation states, and nation-sponsored).</li>
 <br>
-<li>K0107	- Knowledge of Insider Threat investigations, reporting, investigative tools, and laws/regulations.</li>
+<li>K0107: Knowledge of Insider Threat investigations, reporting, investigative tools, and laws/regulations.</li>
 <br>
-<li>K0161	- Knowledge of different classes of attacks (e.g., passive, active, insider, close-in, distribution attacks).</li>
+<li>K0161: Knowledge of different classes of attacks (e.g., passive, active, insider, close-in, distribution attacks).</li>
 <br>
-<li>K0474	- Knowledge of key cyber threat actors and their equities.</li>
+<li>K0474: Knowledge of key cyber threat actors and their equities.</li>
 <br>
-<li>K0548	- Knowledge of target or threat cyber actors and procedures.</li>
+<li>K0548: Knowledge of target or threat cyber actors and procedures.</li>
 <br>
-<li>K0550	- Knowledge of the target, including current events, communication profile, actors, history (language, culture), and frame of reference.</li>
+<li>K0550: Knowledge of the target, including current events, communication profile, actors, history (language, culture), and frame of reference.</li>
 <br>
-<li>A0107	- Ability to think like threat actors.</li>
+<li>A0107: Ability to think like threat actors.</li>
 </ul>
 
 <h2>Lesson Prerequisites</h2>
@@ -156,12 +156,23 @@ Stuxnet marks a significant chapter in the history of cybersecurity. It showcase
 
 </p1>
 
+<h2>Definitions</h2>
+<ul>
+<li><b>Malware:</b> Malicious software designed to harm, exploit, or otherwise compromise a computer system or network.</li><br>
+<li><b>Zero-Day Vulnerability:</b>  An unknown security flaw in software that has not yet been patched or publicly disclosed, leaving systems exposed to attacks.</li><br>
+<li><b>SCADA Systems (Supervisory Control and Data Acquisition):</b>  Industrial control systems used to monitor and control critical infrastructure and processes in sectors like energy, water, and manufacturing.</li><br>
+<li><b>Centrifuge:</b>  A device used to separate substances of different densities, often referenced in the context of industrial processes or targeted attacks on critical infrastructure.</li><br>
+<li><b>Cyber Warfare:</b>  The use of digital attacks by nation-states or organized groups to disrupt, damage, or gain unauthorized access to the information and systems of other nations or organizations.</li><br>
+<li><b>Payload:</b>  The part of malicious software or an exploit that performs the intended harmful action, such as deploying a virus or stealing data.</li>
+</ul>
 
 
 <h2> Presentation</h2>
 
 
 <h2> Hands-On Labs</h2>
+
+<h2> Games</h2>
 
 <h2> Additional Resources</h2>
 
