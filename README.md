@@ -168,7 +168,7 @@ Stuxnet marks a significant chapter in the history of cybersecurity. It showcase
 
 
 <h2> Presentation</h2>
-
+<a href="https://docs.google.com/presentation/d/1GnZrK3eamtVRCOlEfAC5pA6GDFGCpsmL/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Case Study- Stuxnet </a>
 
 <h2> Hands-On Labs</h2>
 
