@@ -120,7 +120,7 @@ Imagine a unique key designed to fit only one specific lock – that's how Stuxn
 <h2>The Impact</h2>
 
 <p1>
-Sabotaging Centrifuges: In Iran's Natanz nuclear facility, Stuxnet caused significant damage by making the centrifuges spin out of control while simultaneously showing operators that everything was functioning normally. Spread Beyond Initial Target: Despite its specific target, Stuxnet also accidentally spread to other systems worldwide, although it didn't cause damage there. This was like a coded message intended for one person accidentally being heard by others. <br>
+Sabotaging Centrifuges: In Iran's Natanz nuclear facility, Stuxnet caused significant damage by making the centrifuges spin out of control while simultaneously showing operators that everything was functioning normally. Spread Beyond Initial Target: Despite its specific target, Stuxnet also accidentally spread to other systems worldwide, although it didn't cause damage there. This was like a coded message intended for one person, accidentally being heard by others. <br>
 
 <br>
 
